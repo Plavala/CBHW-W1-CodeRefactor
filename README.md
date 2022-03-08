@@ -22,22 +22,23 @@ List of acceptance criteria:
 
 ### Installing and Opening file
 
-Git hub link: "git@github.com:Plavala/CBHW-W1-CodeRefactor.git"
+- GitHub: https://github.com/Plavala/CBHW-W1-CodeRefactor
+- GitHub live: https://plavala.github.io/CBHW-W1-CodeRefactor/
 - Clone GitHub repository provided
 - Open with VScode or any Code reader that works similar to VScode.
 - Right click file index.html and select "open with live server"
 
 ## Help
 If running into probloms plese contact Me "Oscar Salagdo" and i will get back to you as soon as I can:
-Email: Oscar.cdbs@gmail.com
-GitHub: Plavala
-Slack: oscar salgado U033Z9KFUG1
-Phone: 678-360-8508
+- Email: Oscar.cdbs@gmail.com
+- GitHub: Plavala
+- Slack: oscar salgado U033Z9KFUG1
+- Phone: 678-360-8508
 
 ## License
-Project licence: MIT Licence
-This Repository: Oscar Salagdo
-Built with: VScode
+- Project licence: MIT Licence
+- This Repository: Oscar Salagdo
+- Built with: VScode
 
 ## Acknowledgments
 Contributions and help was provided from the following:
